@@ -1,5 +1,5 @@
 <h1 align="center">Salaam 👋, I'm Wadan</h1>
-<h3 align="center">A developer from Afghanistan</h3>
+<h3 align="center">A Software developer from Afghanistan</h3>
 
 <img align="right" alt="Wadan" width = "400" src ="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9524u8vwawf6vxfms1w963j8ux5o3c0cc9ws6g5zb81&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
