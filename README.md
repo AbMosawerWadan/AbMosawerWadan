@@ -1,9 +1,7 @@
 <h1 align="center">Salaam 👋, I'm Wadan</h1>
 <h3 align="center">A Software developer from Afghanistan</h3>
 
-
 <img align="right" alt="Wadan" width = "400" src ="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9524u8vwawf6vxfms1w963j8ux5o3c0cc9ws6g5zb81&ep=v1_gifs_search&rid=200w.gif&ct=g">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abmosawerwadan&label=Profile%20views&color=0e75b6&style=flat" alt="abmosawerwadan" /> </p>
 
 - 🔭 I’m currently working on **JavaProjects**
@@ -20,6 +18,9 @@
 <p align="left">
 </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AbMosawerWadan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -30,12 +31,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbMosawerWadan&theme=radical&hide_border=false)
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AbMosawerWadan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 <!--START_SECTION:waka-->
 
 ```text
-Python   3 hrs 58 mins    █████████████████████████   100.00 %
+Java   3 hrs 58 mins    █████████████████████████   100.00 %
 ```
 <!--END_SECTION:waka-->
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/AbMosawerWadan.AbMosawerWadan.svg)
