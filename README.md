@@ -1,15 +1,6 @@
 <h1 align="center">𝕀𝕟 𝕋𝕙𝕖 ℕ𝕒𝕞𝕖 𝕆𝕗 𝔸𝕃𝕃𝔸ℍ</h1>
 
    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Salaam+I'm+Ab+Mosawer+Wadan..;Amir_Kabir_Polytechnic+Student;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
-    
-
-Java   3 hrs 58 mins     █████████████████████████   100.00 %
-
-Python 1 hrs 50 mins      ██████████████   50.00 %
-
-C  30 mins      ███     10.00 %
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AbMosawerWadan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <h3 align="center">A Software developer from Afghanistan</h3>
