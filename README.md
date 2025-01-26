@@ -16,7 +16,6 @@
 
 - 💬 Ask me about **Everything!**
 
-- 📫 How to reach me **vadanmosawer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
